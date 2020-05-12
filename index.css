@@ -1,0 +1,78 @@
+/* .grid{
+    background-color: white;
+    width: 30%;
+    height: 8cm;
+    display: grid;
+    grid-template-columns: 50% 60% ;
+    border-radius: 30px;
+    position: absolute;
+}
+
+
+.rightcontainer {
+    color: black;
+    margin-top: 20px;
+    background-color: white;
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    
+    border: none;
+    border-radius: 30px;
+
+    }
+
+
+    .leftcontainer{
+
+        color: white;
+        text-align: center;
+        font-family: 'Droid Sans Mono';
+        font-weight: normal;
+        color: white;
+        font-size: 50px;
+        background-color:#ee4657	;
+        border-right: white;
+        border: none;
+        border-radius: 30px;
+    }
+
+
+    #month{
+
+            display: inline;
+    }
+
+    #year{
+        text-align: center;
+        padding-left: 5%;
+        display: inline;
+        letter-spacing: 20px;
+    }
+
+
+    #downArrow{
+        transform: rotate(180deg);
+        width: 30px;
+    }
+
+    #downArrowYear{
+        transform: rotate(180deg);
+        width: 30px;
+    }
+
+
+    #upArrow{
+
+        width: 30px;
+    }
+
+
+    #upArrowYear{
+        width: 30px;
+    }
+
+ */
